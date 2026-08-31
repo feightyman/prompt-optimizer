@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prompt Optimizer"
+  short_description: "Turn rough prompts into precise, testable instructions"
+  default_prompt: "Use $prompt-optimizer to improve this prompt while preserving its intent, constraints, and language."
